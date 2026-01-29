@@ -75,7 +75,7 @@ Sou graduando em **Ciência da Computação** (7º semestre) e certificado em **
 Estou sempre aberto a novas oportunidades, colaborações e boas conversas sobre tecnologia.
 
 - 📧 **Email:** paulexgarbo@gmail.com
-- 💼 **LinkedIn:** [/in/pauloalexgarba](https://www.linkedin.com/in/pauloalexgarba)
+- 💼 **LinkedIn:** [/in/paulogarbo](https://www.linkedin.com/in/paulogarbo)
 - 📍 **Localização:** São Paulo, Brasil
 
 ---
