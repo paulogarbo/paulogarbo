@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Paulo Alex!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pauloalexgarba"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/paulogarbo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:paulexgarbo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/paulogarbo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
@@ -60,7 +60,7 @@ Sou graduando em **Ciência da Computação** (7º semestre) e certificado em **
 ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008CDD)
 ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paulogarbo&show_icons=true&theme=dracula&locale=pt-br" alt="GitHub Stats" />
@@ -68,7 +68,7 @@ Sou graduando em **Ciência da Computação** (7º semestre) e certificado em **
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogarbo&layout=compact&theme=dracula&locale=pt-br" alt="Top Languages" />
-</p>
+</p> -->
 
 ## 📫 Vamos conversar?
 
