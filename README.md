@@ -76,7 +76,7 @@ Estou sempre aberto a novas oportunidades, colaborações e boas conversas sobre
 
 - 📧 **Email:** paulexgarbo@gmail.com
 - 💼 **LinkedIn:** [/in/paulogarbo](https://www.linkedin.com/in/paulogarbo)
-- 📍 **Localização:** São Paulo, Brasil
+- 📍 **Localização:** Taubaté - SP, Brasil
 
 ---
 
