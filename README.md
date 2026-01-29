@@ -1,69 +1,85 @@
-<h1>👋 &nbsp;Hey, I'm Felipe Rocha, a passionate Full Stack Engineer!</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+# 👋 Olá, eu sou o Paulo Alex!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/pauloalexgarba"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paulexgarbo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/paulogarbo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+## 👨🏻‍💻 Sobre Mim
 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
+Sou **Desenvolvedor Full Stack** com mais de 2 anos de experiência construindo aplicações web escaláveis e de alta performance. Atualmente trabalho na **ClickSoft**, onde desenvolvo sistemas completos desde o frontend até integrações com APIs de pagamento e deploy em produção.
 
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
+Minha jornada na programação começou pela curiosidade de entender como as coisas funcionam por trás das telas. Essa curiosidade virou paixão, e hoje busco constantemente evoluir como profissional, aprendendo novas tecnologias e aplicando boas práticas de desenvolvimento.
 
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
+Sou graduando em **Ciência da Computação** (7º semestre) e certificado em **Microsoft Azure AI Fundamentals (AI-900)**.
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
+## 🎯 O que eu faço
 
-One of the things I'm most passionate about is continuous learning and sharing knowledge with others. Since the beginning of my journey, I've been fascinated not only by solving complex problems with code but also by helping others understand and grow in their own paths.
+- 🚀 Desenvolvimento de aplicações web completas (Frontend + Backend)
+- 💳 Integrações com gateways de pagamento (Stripe, Asaas)
+- ⚙️ Automação de processos com n8n
+- 📊 Dashboards analíticos e visualização de dados
+- 🔄 Implementação de pipelines CI/CD
+- ☁️ Deploy e gerenciamento de aplicações em cloud (AWS, Heroku)
 
-That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
+## 🛠 Tech Stack
 
-I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
-
-Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
-
-<h2> 📚 &nbsp;What will you find here?</h2>
-
-This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to clean, purposeful software development. Whether you're a recruiter, a fellow developer, or someone learning to code, here's what you'll find:
-
-- Real-world projects used by thousands of users
-- Clean Architecture and SOLID principles in action
-- High test coverage with automated testing
-- Experiments, technical studies, and real-world best practices
-  
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:felipemota.rocha@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/felipe-rocha-034871172/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
-
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+### 💻 Frontend
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
+### ⚙️ Backend & Banco de Dados
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-333333?style=flat&logo=adonisjs&logoColor=5A45FF)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+
+### 🔧 DevOps & Ferramentas
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=430098)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+### 💳 Integrações
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008CDD)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulogarbo&show_icons=true&theme=dracula&locale=pt-br" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogarbo&layout=compact&theme=dracula&locale=pt-br" alt="Top Languages" />
+</p>
+
+## 📫 Vamos conversar?
+
+Estou sempre aberto a novas oportunidades, colaborações e boas conversas sobre tecnologia.
+
+- 📧 **Email:** paulexgarbo@gmail.com
+- 💼 **LinkedIn:** [/in/pauloalexgarba](https://www.linkedin.com/in/pauloalexgarba)
+- 📍 **Localização:** São Paulo, Brasil
+
+---
+
+<p align="center">
+  <i>"Código limpo não é escrito seguindo regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."</i> - Robert C. Martin
+</p>
